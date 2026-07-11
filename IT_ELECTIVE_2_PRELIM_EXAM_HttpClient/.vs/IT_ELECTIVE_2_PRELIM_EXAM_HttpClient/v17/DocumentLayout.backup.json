@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\act2-R\\IT_ELECTIVE_2_PRELIM_EXAM_RAMONES_LEISBETHANN\\IT_ELECTIVE_2_PRELIM_EXAM_HttpClient\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|c:\\users\\ramones family\\onedrive\\documents\\act2-r\\it_elective_2_prelim_exam_ramones_leisbethann\\it_elective_2_prelim_exam_httpclient\\exercises\\searchmealbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|solutionrelative:exercises\\searchmealbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|c:\\users\\ramones family\\onedrive\\documents\\act2-r\\it_elective_2_prelim_exam_ramones_leisbethann\\it_elective_2_prelim_exam_httpclient\\exercises\\getcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|solutionrelative:exercises\\getcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|c:\\users\\ramones family\\onedrive\\documents\\act2-r\\it_elective_2_prelim_exam_ramones_leisbethann\\it_elective_2_prelim_exam_httpclient\\exercises\\getmealbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|solutionrelative:exercises\\getmealbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|c:\\users\\ramones family\\onedrive\\documents\\act2-r\\it_elective_2_prelim_exam_ramones_leisbethann\\it_elective_2_prelim_exam_httpclient\\exercises\\deserializemeals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|solutionrelative:exercises\\updatereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|c:\\users\\ramones family\\onedrive\\documents\\act2-r\\it_elective_2_prelim_exam_ramones_leisbethann\\it_elective_2_prelim_exam_httpclient\\exercises\\searchmealbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|solutionrelative:exercises\\searchmealbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|c:\\users\\ramones family\\onedrive\\documents\\act2-r\\it_elective_2_prelim_exam_ramones_leisbethann\\it_elective_2_prelim_exam_httpclient\\exercises\\handlenotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|solutionrelative:exercises\\handlenotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|c:\\users\\ramones family\\onedrive\\documents\\act2-r\\it_elective_2_prelim_exam_ramones_leisbethann\\it_elective_2_prelim_exam_httpclient\\exercises\\getrandommeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|solutionrelative:exercises\\getrandommeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|c:\\users\\ramones family\\onedrive\\documents\\act2-r\\it_elective_2_prelim_exam_ramones_leisbethann\\it_elective_2_prelim_exam_httpclient\\exercises\\getmealbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|solutionrelative:exercises\\getmealbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D331B73-D3CE-4623-B875-832D3BB4D3D6}|IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj|c:\\users\\ramones family\\onedrive\\documents\\act2-r\\it_elective_2_prelim_exam_ramones_leisbethann\\it_elective_2_prelim_exam_httpclient\\exercises\\filterbyingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DeserializeMeals.cs",
               "DocumentMoniker": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\act2-R\\IT_ELECTIVE_2_PRELIM_EXAM_RAMONES_LEISBETHANN\\IT_ELECTIVE_2_PRELIM_EXAM_HttpClient\\Exercises\\DeserializeMeals.cs",
               "RelativeDocumentMoniker": "Exercises\\DeserializeMeals.cs",
@@ -90,8 +90,7 @@
               "RelativeToolTip": "Exercises\\DeserializeMeals.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T04:51:21.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T04:51:21.156Z"
             },
             {
               "$type": "Document",
@@ -107,32 +106,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GetCategories.cs",
               "DocumentMoniker": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\act2-R\\IT_ELECTIVE_2_PRELIM_EXAM_RAMONES_LEISBETHANN\\IT_ELECTIVE_2_PRELIM_EXAM_HttpClient\\Exercises\\GetCategories.cs",
               "RelativeDocumentMoniker": "Exercises\\GetCategories.cs",
               "ToolTip": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\act2-R\\IT_ELECTIVE_2_PRELIM_EXAM_RAMONES_LEISBETHANN\\IT_ELECTIVE_2_PRELIM_EXAM_HttpClient\\Exercises\\GetCategories.cs",
               "RelativeToolTip": "Exercises\\GetCategories.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-11T04:51:21.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "GetMealById.cs",
               "DocumentMoniker": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\act2-R\\IT_ELECTIVE_2_PRELIM_EXAM_RAMONES_LEISBETHANN\\IT_ELECTIVE_2_PRELIM_EXAM_HttpClient\\Exercises\\GetMealById.cs",
               "RelativeDocumentMoniker": "Exercises\\GetMealById.cs",
               "ToolTip": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\act2-R\\IT_ELECTIVE_2_PRELIM_EXAM_RAMONES_LEISBETHANN\\IT_ELECTIVE_2_PRELIM_EXAM_HttpClient\\Exercises\\GetMealById.cs",
               "RelativeToolTip": "Exercises\\GetMealById.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T04:51:21.166Z"
+              "WhenOpened": "2026-07-11T04:51:21.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GetRandomMeal.cs",
               "DocumentMoniker": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\act2-R\\IT_ELECTIVE_2_PRELIM_EXAM_RAMONES_LEISBETHANN\\IT_ELECTIVE_2_PRELIM_EXAM_HttpClient\\Exercises\\GetRandomMeal.cs",
               "RelativeDocumentMoniker": "Exercises\\GetRandomMeal.cs",
@@ -144,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HandleNotFound.cs",
               "DocumentMoniker": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\act2-R\\IT_ELECTIVE_2_PRELIM_EXAM_RAMONES_LEISBETHANN\\IT_ELECTIVE_2_PRELIM_EXAM_HttpClient\\Exercises\\HandleNotFound.cs",
               "RelativeDocumentMoniker": "Exercises\\HandleNotFound.cs",
@@ -156,19 +156,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SearchMealByName.cs",
               "DocumentMoniker": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\act2-R\\IT_ELECTIVE_2_PRELIM_EXAM_RAMONES_LEISBETHANN\\IT_ELECTIVE_2_PRELIM_EXAM_HttpClient\\Exercises\\SearchMealByName.cs",
               "RelativeDocumentMoniker": "Exercises\\SearchMealByName.cs",
               "ToolTip": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\act2-R\\IT_ELECTIVE_2_PRELIM_EXAM_RAMONES_LEISBETHANN\\IT_ELECTIVE_2_PRELIM_EXAM_HttpClient\\Exercises\\SearchMealByName.cs",
               "RelativeToolTip": "Exercises\\SearchMealByName.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCYAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T04:51:21.173Z"
+              "WhenOpened": "2026-07-11T04:51:21.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UpdateReview.cs",
               "DocumentMoniker": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\act2-R\\IT_ELECTIVE_2_PRELIM_EXAM_RAMONES_LEISBETHANN\\IT_ELECTIVE_2_PRELIM_EXAM_HttpClient\\Exercises\\UpdateReview.cs",
               "RelativeDocumentMoniker": "Exercises\\UpdateReview.cs",

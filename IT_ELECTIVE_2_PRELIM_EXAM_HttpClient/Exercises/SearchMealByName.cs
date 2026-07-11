@@ -36,7 +36,7 @@ public static class SearchMealByName
 
         JsonElement meals = document.RootElement.GetProperty("meals");
 
-        if (meals.ValueKind == JsonValueKind.Null || meals.GetArrayLength() == 1)
+        if (meals.ValueKind == JsonValueKind.Null || meals.GetArrayLength() < 1)
         {
             throw new Exception("No meals were found.");
         }
