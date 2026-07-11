@@ -17,6 +17,7 @@ public class Meal
     private string instructions;
     private string thumbnail;
     private string tags;
+    private int prepTimeMinutes;
 
     // EXERCISE 1: Fix these stub properties to properly get/set from private fields
     // After fixing, make the fields above PRIVATE
@@ -56,5 +57,10 @@ public class Meal
     public override string ToString()
     {
         return $"Meal: {Name} | Category: {Category} | Area: {Area}";
+    }
+    public int PrepTimeMinutes
+    {
+        get => prepTimeMinutes;
+        set => prepTimeMinutes = value;
     }
 }
