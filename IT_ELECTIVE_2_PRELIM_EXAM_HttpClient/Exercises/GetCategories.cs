@@ -2,7 +2,6 @@ using System.Net;
 using System.Text.Json;
 
 namespace IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.Exercises;
-
 // EXERCISE 4: GET List Categories
 // TheMealDB API: https://themealdb.com/api/json/v1/1/categories.php
 //
@@ -15,14 +14,15 @@ namespace IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.Exercises;
 
 public static class GetCategories
 {
-    public static async Task Run(System.Net.Http.HttpClient client)
+    public static async Task Run(HttpClient client)
     {
         // TODO: Send GET request to https://themealdb.com/api/json/v1/1/categories.php
         // TODO: Assert status code is 200 OK
         // TODO: Parse the response JSON
         // TODO: Assert the "categories" array has more than 0 items
 
-        HttpResponseMessage response = await client.GetAsync("https://themealdb.com/api/json/v1/1/search.php?s=Arrabiata");
+        HttpResponseMessage response =
+            await client.GetAsync("https://themealdb.com/api/json/v1/1/categories.php");
 
         if (response.StatusCode != HttpStatusCode.OK)
         {
@@ -30,14 +30,15 @@ public static class GetCategories
         }
 
         string json = await response.Content.ReadAsStringAsync();
-
         using JsonDocument document = JsonDocument.Parse(json);
 
-        JsonElement meals = document.RootElement.GetProperty("categories");
+        JsonElement categories = document.RootElement.GetProperty("categories");
 
-        if (meals.ValueKind == JsonValueKind.Null || meals.GetArrayLength() == 0)
+        if (categories.ValueKind == JsonValueKind.Null || categories.GetArrayLength() == 0)
         {
-            throw new Exception("No category found.");
+            throw new Exception("No categories found.");
         }
+
+        Console.WriteLine("GetCategories passed!");
     }
 }

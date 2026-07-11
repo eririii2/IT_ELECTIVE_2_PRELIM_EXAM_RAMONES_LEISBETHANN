@@ -31,9 +31,7 @@ public static class GetRandomMeal
             throw new Exception($"Expected 200 OK but got {response.StatusCode}");
         }
 
-        string json = await response.Content.ReadAsStringAsync();
-
-        using JsonDocument document = JsonDocument.Parse(json);
+        string body = await response.Content.ReadAsStringAsync();
 
         if (string.IsNullOrWhiteSpace(body))
         {

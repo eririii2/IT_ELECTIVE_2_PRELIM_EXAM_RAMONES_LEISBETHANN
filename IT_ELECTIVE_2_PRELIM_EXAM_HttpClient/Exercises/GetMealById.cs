@@ -37,9 +37,9 @@ public static class GetMealById
 
         string? mealName = meal.GetProperty("strMeal").GetString();
 
-        if (mealName != "Arrabiata")
+        if (mealName != "Spicy Arrabiata Penne")
         {
-            throw new Exception($"Expected 'Arrabiata' but got '{mealName}'.");
+            throw new Exception($"Expected 'Spicy Arrabiata Penne' but got '{mealName}'.");
         }
 
         Console.WriteLine("GetMealById passed!");
